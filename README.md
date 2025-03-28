@@ -7,6 +7,7 @@ This is a backend API project for the **Boss Machine**, which handles various ro
 - [Features](#features)
 - [Installation](#installation)
 - [Running Tests](#running-tests)
+- [On the beggining](#beggining)
 - [API Endpoints](#api-endpoints)
   - [Minions](#minions)
   - [Ideas](#ideas)
@@ -19,8 +20,6 @@ This is a backend API project for the **Boss Machine**, which handles various ro
 - Node.js
 - Express.js
 - Mocha (for testing)
-- Supertest (for API testing)
-- MongoDB (or any database of choice)
 - Middleware for validation (e.g., checkMillionDollarIdea)
   
 ## Features
@@ -90,6 +89,15 @@ To ensure everything works as expected, you can run the tests:
 Tests should automatically run if you make changes to server files. If you want you can quit the loop by pressing `Ctrl + C`.
 
 I have had problems running the test and I didn't solve this.
+
+## On the beggining
+
+  To see the application in its initial, non-working state, simply open **index.html** in a web browser.
+  You should use:
+  - <a href= "https://www.google.com/chrome/browser/desktop/index.html">Google chrome</a> - (at least version 60)
+  - <a href= "https://www.mozilla.org">Firefox</a> (at least version 55).
+
+The links above will let you download the latest release of either browser if you do not have it or are unsure of which version you're running.
 
 ## API Endpoints
 
