@@ -123,7 +123,6 @@ I have had problems running the test and I didn't solve this.
 You can view a video demonstration of the final app here:
 
   <a href= "https://s3.amazonaws.com/codecademy-content/programs/build-apis/solution-videos/BossMachine480.mov">Project example</a>
-       The markdown processor does not support the video tag.
   
 ## Contributing
 
