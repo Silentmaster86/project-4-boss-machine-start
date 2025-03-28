@@ -77,7 +77,7 @@ To ensure everything works as expected, you can run the tests:
 2. Alternatively, you can use the following command to run the tests manually:
 
     ```bash
-    mocha
+    npx mocha
     ```
 
 3. If you want to continuously watch and run the tests while developing:
