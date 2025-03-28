@@ -7,7 +7,7 @@ This is a backend API project for the **Boss Machine**, which handles various ro
 - [Features](#features)
 - [Installation](#installation)
 - [Running Tests](#running-tests)
-- [On the beggining](#beggining)
+- [On the beggining](#on-the-beggining)
 - [API Endpoints](#api-endpoints)
   - [Minions](#minions)
   - [Ideas](#ideas)
