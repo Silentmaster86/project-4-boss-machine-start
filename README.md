@@ -12,6 +12,7 @@ This is a backend API project for the **Boss Machine**, which handles various ro
   - [Ideas](#ideas)
   - [Meetings](#meetings)
   - [Bonus - Work Routes](#bonus-work-routes)
+- [Project Overview](#project-overview)
 - [Contributing](#contributing)
 
 ## Technologies Used
@@ -117,6 +118,16 @@ I have had problems running the test and I didn't solve this.
 - **POST** `/api/minions/:minionId/work` – Adds a new work item for a specific minion.
 - **DELETE** `/api/minions/:minionId/work/:workId` – Deletes a specific work item by ID.
 
+## Project Overview
+
+You can view a video demonstration of the final app here:
+
+  ```
+    <video width="100%" height="100%" controls>
+       <source src="https://s3.amazonaws.com/codecademy-content/programs/build-apis/solution-videos/BossMachine480.mov" type="video/mp4">
+       The markdown processor does not support the video tag.
+    </video>
+  ```
 ## Contributing
 
 Feel free to fork it, make changes, and submit a pull request if you want to contribute to this project. Be sure to write tests for any new features or bug fixes you introduce.
