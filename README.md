@@ -50,7 +50,20 @@ Follow these steps to get your local development environment set up:
     ```bash
     npm install
     ```
+4. I have had some problems with updating some dependencies because some of them have old versions
 
+5. Probably you will have to install new version of react-redux:
+
+    ``` bash
+    npm install redux@4
+    ```
+
+    or
+
+   ``` bash
+   npm install react-redux@latest
+   ```
+   
 ## Running Tests
 
 To ensure everything works as expected, you can run the tests:
